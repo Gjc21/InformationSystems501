@@ -1,0 +1,66 @@
+header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    border-bottom: solid 1px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.navbuttons{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-decoration: wavy;
+    text-align: right;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;color: white;
+    font-size: 25px;
+    padding-right:100px;
+    background-color: black;
+}
+.namenav{
+    color: slategray;
+    font-weight: bold;
+    text-decoration: wavy;
+    text-align: left;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    padding-left:50px;
+    background-color: black;
+}
+.tabbg{
+    background-image: url("../images/data.png" );
+   
+}
+.mybody{
+    top: 200px;
+    left: 20px;
+    right: 20px;
+    bottom: 65px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0) ;
+    text-size-adjust: 30px;
+}
+.alignment{ 
+    text-align: center;
+}
+.blacktext{
+   color: rgb(0, 0, 0);
+}
+.textstyle{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.underline{
+    text-decoration: underline;
+}
+.pagetitle{
+ font-weight: 300;
+ text-align: center;
+ font-size: 3rem;
+ display: block;
+}
+

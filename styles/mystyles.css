@@ -1,0 +1,42 @@
+.common {
+    background-color:#cccccc ;
+    border: solid 2px whit  e;
+    position: absolute;
+}
+.bold{
+    font-weight: bold;
+}
+.textsize{ 
+    text-transform: uppercase;
+    text-size-adjust: 30px;
+}
+.alignment{ 
+    text-align: center;
+}
+.textright{
+    text-align: right;
+}
+.underline{ 
+    text-decoration: underline;
+}
+.blacktext{
+   color: rgb(170, 63, 63);
+}
+.colortext{
+    color: rgb(27, 117, 17);
+ }
+.titletext{
+    color: rgb(108, 218, 238);
+}
+.textstyle{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.pagetitle{
+ font-weight: 300;
+ text-align: center;
+ font-size: 3rem;
+ display: block;
+}
+.diffont{
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
